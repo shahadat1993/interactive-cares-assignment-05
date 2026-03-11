@@ -1,16 +1,124 @@
-# React + Vite
+# Assignment : Contact App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Name : Shahadat Hossen
 
-Currently, two official plugins are available:
+### Email : [s0735949@gmail.com](mailto:s0735949@gmail.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live URL](https://shahadat1993.github.io/interactive-cares-assignment-05/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+This project is a **Contact Management Application** built using **React JS** as part of the assignment requirements.
+The application allows users to manage their contacts easily by providing features such as adding, viewing, editing, deleting, searching, and filtering contacts.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project uses **Context API for global state management** and **json-server as a mock backend API** to store and manage contact data.
+
+---
+
+## 🚀 Features
+
+* Display all contacts on the Home page
+* Add new contacts
+* View contact details using **Bootstrap Modal**
+* Edit contact information
+* Delete contacts with confirmation warning
+* Search contacts by:
+
+  * First Name
+  * Last Name
+  * Email
+  * Phone
+* Filter contacts by:
+
+  * First Name (A → Z)
+  * Last Name (A → Z)
+  * Oldest To First
+* Show **"No Contact Information"** when there are no contacts
+* Responsive UI using **Bootstrap**
+* Icons implemented using **Font Awesome**
+
+---
+
+## 🛠 Technologies Used
+
+* React JS
+* Context API
+* React Router
+* Axios
+* Bootstrap
+* Font Awesome
+* json-server (Mock Backend API)
+
+---
+
+## 📂 Project Structure
+
+```
+contact-app
+│
+├── public
+│
+├── src
+│   ├── assets
+│   ├── components
+│   ├── context
+│   ├── pages
+│   ├── services
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── db.json
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/shahadat1993/interactive-cares-assignment-05.git
+```
+
+### 2. Navigate to the project directory
+
+```
+cd contact-app
+```
+
+### 3. Install dependencies
+
+```
+npm install
+```
+
+### 4. Start the React development server
+
+```
+npm run dev
+```
+
+### 5. Start the json-server (Mock Backend)
+
+```
+npm run server
+```
+
+---
+
+## 🌐 Live Demo
+
+Click the link below to see the live version of the project:
+
+[Live URL](https://shahadat1993.github.io/interactive-cares-assignment-05/)
+
+---
+
+## 👨‍💻 Author
+
+**Shahadat Hossen**
+Email: [s0735949@gmail.com](mailto:s0735949@gmail.com)
