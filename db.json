@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "95a4",
+      "first_name": "Md.",
+      "last_name": "Shahadat",
+      "email": "s0735949@gmail.com",
+      "phone": "01858838730",
+      "address": "South Middle Halishahar,Bandar,Chattogram\nSouth Middle Halishahar,Bandar,Chattogram",
+      "createdAt": "2026-03-11T01:08:16.866Z"
+    },
+    {
+      "id": "5de0",
+      "first_name": "Hector",
+      "last_name": "Dawson",
+      "email": "fehaxolem@mailinator.com",
+      "phone": "+1 (939) 723-1437",
+      "address": "Voluptas ea adipisci",
+      "createdAt": "2026-03-11T01:08:25.759Z"
+    },
+    {
+      "id": "a955",
+      "first_name": "Paula",
+      "last_name": "Joyner",
+      "email": "rutimamyx@mailinator.com",
+      "phone": "+1 (581) 493-2255",
+      "address": "Necessitatibus amet",
+      "createdAt": "2026-03-11T01:08:28.897Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
