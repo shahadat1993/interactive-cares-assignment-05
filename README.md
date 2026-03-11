@@ -4,7 +4,7 @@
 
 ### Email : [s0735949@gmail.com](mailto:s0735949@gmail.com)
 
-[Live URL](https://shahadat1993.github.io/interactive-cares-assignment-05/)
+[Live URL](https://interactive-cares-assignment-05-dnrj8zynt.vercel.app/)
 
 ---
 
@@ -114,7 +114,7 @@ npm run server
 
 Click the link below to see the live version of the project:
 
-[Live URL](https://shahadat1993.github.io/interactive-cares-assignment-05/)
+[Live URL](https://interactive-cares-assignment-05-dnrj8zynt.vercel.app/)
 
 ---
 
